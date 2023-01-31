@@ -1,7 +1,7 @@
 # Hi there
 
-<h1 align="center">I'm Afshin Najafi</h1>
 
+- I'm Afshin Najafi
 - I'am a software engineer
 - I'm looking for Collaborate on Flutter Projects
 - You can ask me about Flutter and Dart,
