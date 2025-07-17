@@ -12,4 +12,8 @@
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,dart,flutter,kotlin,figma,git,firebase)](https://skillicons.dev)
 
 # Connect With Me
-<a href="https://www.linkedin.com/in/afshin-najafi/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<p>
+  <a href="[https://skillicons.dev](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
