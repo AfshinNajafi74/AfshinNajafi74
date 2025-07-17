@@ -13,7 +13,7 @@
 
 # Connect With Me
 <p>
-  <a href="https://skillicons.dev](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/afshin-najafi/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
